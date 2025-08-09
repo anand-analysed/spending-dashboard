@@ -5,18 +5,13 @@ This project was created as part of the **ANLY 512: Data Visualization** course 
 
 ---
 
-## 📍 Live Dashboard
+##  Live Dashboard
 [**Click here to view the live dashboard**](https://anand-analysed.github.io/spending-dashboard/)
 
----
-
-## 📸 Preview
-*(Add a screenshot of your dashboard here)*  
-`![Dashboard Preview](screenshot.png)`
 
 ---
 
-## 📄 Project Overview
+##  Project Overview
 This dashboard analyzes several months of my personal transaction data to answer key questions about how and where I spend my money.  
 It focuses on the following areas:
 - **Monthly spending trends** and how they change over time.
@@ -30,7 +25,7 @@ The aim is to turn raw transaction data into a **decision-making tool**, helping
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - **R** – primary analysis and visualization
 - **tidyverse** – data cleaning and transformation
 - **lubridate** – date handling
@@ -40,7 +35,7 @@ The aim is to turn raw transaction data into a **decision-making tool**, helping
 
 ---
 
-## ✨ Features
+##  Features
 - **Interactive visualizations** for exploring data points in detail.
 - Clear, distinct color palette for each chart.
 - Narrative captions under each visualization for context.
@@ -49,14 +44,14 @@ The aim is to turn raw transaction data into a **decision-making tool**, helping
 
 ---
 
-## 📊 Data Source
+##  Data Source
 All data used in this project comes from my own personal bank transactions, manually cleaned and categorized.  
 The dataset is **not shared publicly** for privacy reasons.
 
 ---
 
-## 📌 Author
-**Anand**  
+##  Author
+**Paramanand Moahanachandran**  
 Graduate Student – MS in Analytics  
 Harrisburg University of Science and Technology  
 
